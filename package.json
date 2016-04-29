@@ -1,0 +1,23 @@
+{
+  "name": "deckauthor-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.13.4"
+  },
+  "scripts": {
+    "test": "tape tests/**/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanlabouve/deckauthor-remote.git"
+  },
+  "author": "@ryanlabouve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanlabouve/deckauthor-remote/issues"
+  },
+  "homepage": "https://github.com/ryanlabouve/deckauthor-remote#readme"
+}
